@@ -1,0 +1,5 @@
+code,message,min_temp,max_temp,min_hum,max_hum
+TEMP_HIGH,High temperature detected,30,100,-999,-999
+TEMP_LOW,Low temperature detected,-999,10,-999,-999
+HUM_HIGH,High humidity alert,-999,-999,70,100
+HUM_LOW,Low humidity alert,-999,-999,-999,30
